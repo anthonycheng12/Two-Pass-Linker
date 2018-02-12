@@ -1,0 +1,1 @@
+To use my program please go on eclipse and go to run then go to run configurations. After that go to arguments and type in the argument names like "input-1" without the quotation marks. Then press apply then press run and it will run. Thank you!
